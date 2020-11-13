@@ -1,0 +1,2 @@
+# damo
+Collect good ideas
